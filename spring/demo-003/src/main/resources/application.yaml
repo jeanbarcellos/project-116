@@ -1,3 +1,5 @@
 spring:
   application:
     name: demo-003
+
+debug: true
