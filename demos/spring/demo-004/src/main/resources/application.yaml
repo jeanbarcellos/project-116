@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo004
+
+
+debug: true
